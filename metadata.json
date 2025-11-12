@@ -1,0 +1,7 @@
+{
+  "name": "Need Feeder",
+  "description": "An innovative digital platform designed to bridge the gap between donors and charitable organizations, addressing critical issues such as food waste, resource scarcity, and the lack of basic necessities among underprivileged communities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
